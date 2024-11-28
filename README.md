@@ -4,8 +4,6 @@
 
 1. Open hterm and press Ctrl+Shift+J to open the developer console for your terminal
 2. Paste the following JavaScript into the console
-3. Profit
-
 ```javascript
 term_.prefs_.set(
   "user-css",
@@ -13,6 +11,7 @@ term_.prefs_.set(
 );
 term_.prefs_.set("font-family", '"hack", monospace');
 ```
+3. Profit
 
 ## How to make this yourself
 
